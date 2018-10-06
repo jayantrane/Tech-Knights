@@ -1,0 +1,382 @@
+4th Dimension/4D
+ABAP
+ABC
+ActionScript
+Ada
+Agilent VEE
+Algol
+Alice
+Angelscript
+Apex
+APL
+AppleScript
+Arc
+Arduino
+ASP
+AspectJ
+Assembly
+ATLAS
+Augeas
+AutoHotkey
+AutoIt
+AutoLISP
+Automator
+Avenue
+Awk
+Bash
+(Visual) Basic
+bc
+BCPL
+BETA
+BlitzMax
+Boo
+Bourne Shell
+Bro
+C
+C Shell
+C#
+C++
+C++/CLI
+C-Omega
+Caml
+Ceylon
+CFML
+cg
+Ch
+CHILL
+CIL
+CL (OS/400)
+Clarion
+Clean
+Clipper
+Clojure
+CLU
+COBOL
+Cobra
+CoffeeScript
+ColdFusion
+COMAL
+Common Lisp
+Coq
+cT
+Curl
+D
+Dart
+DCL
+DCPU-16 ASM
+Delphi/Object Pascal
+DiBOL
+Dylan
+E
+eC
+Ecl
+ECMAScript
+EGL
+Eiffel
+Elixir
+Emacs Lisp
+Erlang
+Etoys
+Euphoria
+EXEC
+F#
+Factor
+Falcon
+Fancy
+Fantom
+Felix
+Forth
+Fortran
+Fortress
+(Visual) FoxPro
+Gambas
+GNU Octave
+Go
+Google AppsScript
+Gosu
+Groovy
+Haskell
+haXe
+Heron
+HPL
+HyperTalk
+Icon
+IDL
+Inform
+Informix-4GL
+INTERCAL
+Io
+Ioke
+J
+J#
+JADE
+Java
+Java FX Script
+JavaScript
+JScript
+JScript.NET
+Julia
+Korn Shell
+Kotlin
+LabVIEW
+Ladder Logic
+Lasso
+Limbo
+Lingo
+Lisp
+Logo
+Logtalk
+LotusScript
+LPC
+Lua
+Lustre
+M4
+MAD
+Magic
+Magik
+Malbolge
+MANTIS
+Maple
+Mathematica
+MATLAB
+Max/MSP
+MAXScript
+MEL
+Mercury
+Mirah
+Miva
+ML
+Monkey
+Modula-2
+Modula-3
+MOO
+Moto
+MS-DOS Batch
+MUMPS
+NATURAL
+Nemerle
+Nimrod
+NQC
+NSIS
+Nu
+NXT-G
+Oberon
+Object Rexx
+Objective-C
+Objective-J
+OCaml
+Occam
+ooc
+Opa
+OpenCL
+OpenEdge ABL
+OPL
+Oz
+Paradox
+Parrot
+Pascal
+Perl
+PHP
+Pike
+PILOT
+PL/I
+PL/SQL
+Pliant
+PostScript
+POV-Ray
+PowerBasic
+PowerScript
+PowerShell
+Processing
+Prolog
+Puppet
+Pure Data
+Python
+Q
+R
+Racket
+REALBasic
+REBOL
+Revolution
+REXX
+RPG (OS/400)
+Ruby
+Rust
+S
+S-PLUS
+SAS
+Sather
+Scala
+Scheme
+Scilab
+Scratch
+sed
+Seed7
+Self
+Shell
+SIGNAL
+Simula
+Simulink
+Slate
+Smalltalk
+Smarty
+SPARK
+SPSS
+SQR
+Squeak
+Squirrel
+Standard ML
+Suneido
+SuperCollider
+TACL
+Tcl
+Tex
+thinBasic
+TOM
+Transact-SQL
+Turing
+TypeScript
+Vala/Genie
+VBScript
+Verilog
+VHDL
+VimL
+Visual Basic .NET
+WebDNA
+Whitespace
+X10
+xBase
+XBase++
+Xen
+XPL
+XSLT
+XQuery
+yacc
+Yorick
+Z shell
+Cloud and Distributed Computing
+Statistical Analysis and Data Mining
+Middleware and Integration Software
+Web Architecture and Development Framework
+User Interface Design
+Software Revision Control Systems
+Data Presentation
+SEO/SEM Marketing
+Mobile Development
+Network and Information Security
+Marketing Campaign Management
+Data Engineering and Data Warehousing
+Storage Systems and Management
+Electronic and Electrical Engineering
+Algorithm Design
+Perl/Python/Ruby
+Shell Scripting Languages
+Mac, Linux and Unix Systems
+Java Development
+Business Intelligence
+Software QA and User Testing
+Virtualization
+Automotive Services, Parts and Design
+android studio
+machine learning
+deep learning
+matlab
+open cv
+competitive programming
+bootstrap
+flask
+Economics
+Database Management and Software
+Adaptability & Flexibility
+Attention to Detail
+Collaboration & Teamwork
+Communication
+Creativity & Innovation
+Independence
+Interpersonal Skills
+Leadership & Management
+Problem Solving & Analytical Thinking
+Professionalism
+Time Management
+Work Ethic
+Accounting & Finance
+Business & Data Analysis
+Cloud Computing
+Computer Technology
+Design
+Hard Communication Skills
+Marketing
+Mobile & Web Development
+Network Structure & Security
+Nursing
+Project Management
+Social Media
+Teaching
+Leadership
+Communication
+Collaboration
+Time Management
+Acuity	Introspection	Organization	Recall
+Active Listening	Listening	Perception	Scheduling
+Critical Observation	Memory	Questioning	
+Analysis	Open-Mindedness	Quick Thinking	Self-Motivation
+Calmness	Optimism	Self-Confidence	Stress Management
+Decision-making	Organization	Self-Managment	
+Active Listening	Coordination	Idea Exchange	Open to Feedback
+Conflict Management	Delegation	Mediation	Persuasion
+Cooperation	Facilitation	Negotiation
+Clarity	Empathy	Non-Verbal Communication	Summarizing
+Confidence	Friendliness	Providing Feedback	Verbal Communication
+Constructive Feedback	Listening	Respect	Written Communication
+Brainstorming	Divergent Thinking	Insight	Questioning
+Creative Writing	Experimentation	Inspiration	Reframing
+Design	Imagination	Mind Mapping	Storytelling
+Confidence	Initiative	Self-Discipline	Trustworthiness
+Dependability	Self-Motivation	Self-Management	Time Management
+Diplomacy	Humor	Networking	Public Speaking
+Emotional Intelligence	Interpersonal Communication	Patience	Sensitivity
+Empathy	Mentoring	Positive Reinforcement	Tolerance
+Agility	Delegation	Giving Feedback	Selflessness
+Authenticity	Empathy	Humility	Trust
+Cultural Intelligence	Generosity	Listening	Versatility
+Analysis	Initiative	Observation	Research
+Brainstorming	Lateral Thinking	Optimization	Streamlining Processes
+Decision Making	Logical Reasoning	Persistance	Troubleshooting
+Accountability	Dedication	Patience	Responsibility
+Business Etiquette	Focus	Positive Attitude	Strong Ethics
+Conflict Resolution	Integrity	Reliability	Tact
+Coping	Focus	Organization	Self-starter
+Decision Making	Goal Setting	Planning	Stress Management
+Delegating	Multi-tasking	Prioritizing
+Commitment	Initiative	Professionalism	Team-minded
+Dependability	Integrity	Responsibility	Time Management
+Discipline	Organization	Self-motivation
+Account Tools (SAP, Oracle, etc.)	Bookkeeping	Cost & Trend Analysis	GAAP/FASB Knowledge
+Auditing	Budget Management	ERP Systems	Mathematics
+BI Tools & Apps	Data Engineering	Data Presentation	Resource Management
+Data Modeling	Data Mining	Database Management
+Cloud Apps (JSON, Rest, etc.)	Information Security	Middleware Technolog
+ies	MySQL
+Cloud Architecture	Linux	Networking Communication	Storage & Data Management
+Analytics	HTML	Pivot Tables	Spreadsheets
+Google Search	Microsoft Office Suite	Social Media	Typing
+Adobe Creative Suite (Photoshop, etc.)	Digital Product Design Software (InVision, etc.)	Print Design & Typography	User Interface (UI) Design
+CSS	Flash	User Experience (UX) Design	
+Copywriting	Foreign Languages	Public Speaking	Technical Writing
+Digital Communication	Legal Writing	Sign Language	Legal Writing
+Branding	Content Management Systems (CMS)	Digital Advertising	Search Engine Marketing (SEM)
+Campaign Management	Copywriting	Google Analytics	Search Engine Optimization (SEO)
+Android Development	Back-end Development	Software Revision Control Systems	Development Framework
+Angular and Node Apps	Front-end Development	Web Architecture	iOS App Development
+Authentication Systems	Data Loss Prevention (DLP)	Risk Assessment	Virtual & Host-based Firewalls
+Cryptography	Encryption Algorithms	Security Engineering	Vulnerability Analysis
+Advanced Lifesaving (ACLS)	Diabetic Care	Neonatal Care	Surgery Assistance
+Catheterization	Dialysis	Phlebotomy	Traction Management
+Agile Methodologies (Scrum)	Inter-departmental Communication	Project Performance Metrics	Scheduling
+Budgeting	Project Management Software	Risk Management	Technical Reporting
+Adobe Sparks	Canva	Hypetext	Social Media Analytics
+Buffer	Hootsuite	Photography	Social Media Literacy
+Blackboard	Creating PLNs	Lesson Planning	Web Design
+Blog Creation	Digital Portfolio Creation	Video Content Development	Wiki Creation
+
+Chemotherapy Administration	Geriatric Care	Prenatal Care	Wound Monitoring
