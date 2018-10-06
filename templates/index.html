@@ -49,9 +49,9 @@
         </button>
         <div class="collapse navbar-collapse" id="navbarResponsive">
           <ul class="navbar-nav text-uppercase ml-auto">
-            <li class="nav-item">
+<!--             <li class="nav-item">
               <a class="nav-link js-scroll-trigger" href="{{ url_for('applicants') }}">Applicants</a>
-            </li>
+            </li> -->
             <li class="nav-item">
               <a class="nav-link js-scroll-trigger" href="{{ url_for('events') }}">Events</a>
             </li>
@@ -67,7 +67,7 @@
         <div class="intro-text">
           <div class="intro-lead-in">Lets begin!</div>
           <div class="intro-heading text-uppercase">We will screen it for you!!!</div>
-          <a class="btn btn-primary btn-xl text-uppercase js-scroll-trigger" href="#services">About</a>
+          <a class="btn btn-primary btn-xl text-uppercase js-scroll-trigger" href="{{ url_for('events') }}">Events</a>
         </div>
       </div>
     </header>
